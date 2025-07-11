@@ -4,10 +4,10 @@ public class jajati {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Enter 1st number: ");
+        System.out.print("Enter First number: ");
         int num1 = scanner.nextInt();
 
-        System.out.print("Enter 2nd number: ");
+        System.out.print("Enter Second number: ");
         int num2 = scanner.nextInt();
 
         int sum = num1 + num2;
